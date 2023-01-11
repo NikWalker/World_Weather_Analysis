@@ -1,5 +1,6 @@
 #adding config.py file.
 config.py
+
 #adding additional files
 API_practice.ipynb
 random_numbers.ipynb
@@ -133,3 +134,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Module 6 Challenge/Weather_Database/config2.py
+Module 6 Challenge/Vacation_Itinerary/config4.py
+Module 6 Challenge/WeatherPy_vacation-backup.csv
+Module 6 Challenge/Vacation_Search/config3.py
